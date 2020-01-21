@@ -1,0 +1,57 @@
+Week1 4u
+Week2 10u
+	-Oefenigen uit powerpoint 2u
+	-les 4u
+	-experimentatie met react
+week3 15
+	-les 4u
+	-Experimentatie React 5u
+	-begin projecc 5u
+Week4 15
+	-les 4u
+	-project + experimentatie  en gewoon worden framework7 en react 11u
+Week5 20
+	les 4u
+	-Firebase opzetten, implementeren in project 16u
+Week6 15
+	-Registratie + login 15
+Week7 20
+	-les 4u
+	-Hoofdpagina ingelogd + profiel en firebase 16u
+Week8 10
+	-profiel + firbase aanpassen voor profiel
+Week9 16
+	-les 4u
+	-Beginsellen quiz aanmaken 12u
+Week10 20
+	-les 4u
+	-quiz syteem opstellen en uitesten + aanpassen
+Week11 20
+	-les 4u
+	-quiz optimaliseren + uittesten
+Week12 25
+	-les 4u
+	-manifest en serviceworker bekijken en info opzoeken 5u
+	-Wachtwoord vergeten + vragen opslagmethode aanpassen 16u
+Week13 20
+	-Quiz systeem aanpassen en errors wegwerken 18
+	-audit en info opzoeken om audit te verbeteren 2
+Week14 10
+	-paginas rond de quiz aanmaken 10
+Week15 0
+Week16 0
+Week17 0
+Week 18 30
+	-Quiz optimaliseren + timer + randomvragen verkrijgen 25
+	-vragen uitwerken 5
+	-categoriën toevoegen 1
+	
+Week 19(nu) 15
+	-finalisatie vragen 3
+	-Fialisatie Quiz + omliggende pagina's 10
+	-service worker, manifest + audit nakijken en verbeteren 
+
+TOTAAL: 265
+
+
+ 
